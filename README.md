@@ -1,6 +1,6 @@
 # Habit-tracker React App
 
-[Habit-tracker App]()
+[Habit-tracker App](https://je-habit.netlify.app/)
 
 <br>
 
@@ -13,3 +13,6 @@
 ### Skill
 
 `ReactJS` + `React Hook`
+
+<br>
+배포 : Netlify
